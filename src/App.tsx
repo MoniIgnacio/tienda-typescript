@@ -9,7 +9,7 @@ function App(): JSX.Element {
       <Header name="TypeShopping" />
       <div className="p-4">
         <Title title="Tienda online" />
-        <ProductList/>
+        <ProductList />
       </div>
     </div>
   );
